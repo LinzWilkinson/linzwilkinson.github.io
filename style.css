@@ -1,0 +1,95 @@
+.box1 {
+    block-size: 300px;
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    padding: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box2 {
+    block-size: 200px;
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    padding: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://previews.123rf.com/images/adam88x/adam88x1310/adam88x131000198/23081950-coal-black-background-mineral-stone.jpg");
+    background-color: rgba(37, 37, 37, 0.543);
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.para {
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#subhead {
+text-align: left;
+font-size: 20px;
+}
+
+.para2 {
+ width: 400px;
+ text-align: left;
+ }
+
+.pics {
+display:flex;
+justify-content: center;
+}
+
+.bun {
+background-color: white;
+padding: 60px 40px;
+}
+ .otter {
+background-color: white;
+padding: 60px 40px;
+ }
+
+.sloth {
+background-color: white;
+padding: 25px 10px;
+}
+
+.box3 {
+block-size: 100px;
+background-color: black;
+text-align: center;
+color: whitesmoke;
+padding: 100px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#video {
+display: block;
+margin: 0 auto;
+padding: 50px;
+background-color: white;
+}
+
+.table {
+font-family: Arial, Helvetica, sans-serif;
+padding:50px;
+text-align: center;
+margin: auto;
+}
+
+th, td {
+padding: 5px;
+}
+
+tr:nth-child(odd) {
+background-color: grey;
+}
+
+th {
+background-color: white
+}
+
